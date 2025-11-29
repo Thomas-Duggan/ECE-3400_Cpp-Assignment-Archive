@@ -1,3 +1,6 @@
+// Copyright (c) 2025 Thomas Duggan and Tadiwanashe Chimuputi
+// This work is licensed under CC BY-SA 4.0
+
 #include "restaurant.cpp"
 
 int main(){
