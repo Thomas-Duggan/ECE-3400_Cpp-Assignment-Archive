@@ -1,3 +1,6 @@
+// Copyright (c) 2025 Thomas Duggan
+// This work is licensed under CC BY-SA 4.0
+
 #include <iostream>
 #include <algorithm>
 #include <vector>
@@ -30,4 +33,5 @@ int main(){
 
     for (int i = 0; i < numbers.size(); i++)
         cout << numbers[i] << " ";
+
 }
