@@ -1,6 +1,8 @@
 ## Note
 This is a nearly complete collection, we used Qt later in the course which requires a significant amount of prereq files I do not have permission to distribute.
 
+Some scripts made in collaboration with Tadiwanashe Chimuputi
+
 
 ## Purpose
 Archive of previous C++ work to remind myself how to create C++ programs in the future.
