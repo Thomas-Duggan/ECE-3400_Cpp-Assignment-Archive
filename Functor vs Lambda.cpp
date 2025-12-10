@@ -7,7 +7,7 @@
 
 using namespace std;
 
-struct sort_decending {
+struct sort_decending { // Functor
     bool operator()(double a, double b) {
         return a > b;
     }
